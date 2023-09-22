@@ -1,16 +1,8 @@
-# cointrends
 
-A new Flutter project.
+**Coin Trends 🤑**
 
-## Getting Started
+A cryptocurrency price-checking app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230922-233604_cointrends~2](https://github.com/root-sys/cointrends/assets/54510055/6dfdfa8f-9342-4681-aa8b-a2c961d55c6e)
+![Screenshot_20230922-233557_cointrends~2](https://github.com/root-sys/cointrends/assets/54510055/01504f4f-2bd8-4baa-a4f0-3405413b2609)
+![Screenshot_20230922-233712_cointrends~2](https://github.com/root-sys/cointrends/assets/54510055/e61f463e-89ed-4137-b009-489a2472eeb0)
